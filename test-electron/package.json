@@ -11,6 +11,7 @@
     "electron": "^1.6.11",
     "eslint": "^4.3.0",
     "eslint-plugin-react": "^7.1.0",
+    "foreman": "^2.0.0",
     "react-scripts": "1.0.10"
   },
   "scripts": {
